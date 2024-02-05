@@ -1,0 +1,17 @@
+{
+    "name": "dev_edzel/php_mvc",
+    "authors": [
+        {
+            "name": "Edzel Dacanay",
+            "email": "edzel_dev@pisopay.com.ph"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
